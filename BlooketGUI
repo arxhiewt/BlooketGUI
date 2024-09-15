@@ -2989,6 +2989,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("i updated all the offsets and addresses so it WORKS now - archie")
+        iframe.contentWindow.alert("validation checks added + updated 🔥🔥🔥🔥 - Archie")
     }
 })();
