@@ -1,3 +1,6 @@
+//  added some validation checks to use the Blooket hack since blooket updated if it doesnt work blame it on the guy i got the source code from - archie //
+
+
 (() => {
     let iframe = document.querySelector("iframe");
     /* By CryptoDude3 */
