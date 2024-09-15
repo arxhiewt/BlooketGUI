@@ -1,4 +1,6 @@
-//  added some validation checks to use the Blooket hack since blooket updated if it doesnt work blame it on the guy i got the source code from - archie //
+// added some validation checks to use the Blooket hack since blooket updated
+// if it doesnt work blame it on the guy i got the source code from - archie
+// Updated Bypass 15/09/24 - If this doesnt work then wait for me to fix offsets
 
 
 (() => {
