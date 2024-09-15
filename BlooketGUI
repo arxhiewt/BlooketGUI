@@ -2989,6 +2989,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("validation checks added + updated 🔥🔥🔥🔥 - Archie")
+        iframe.contentWindow.alert("validation checks added + updated 🔥🔥🔥🔥 - Archie [v1.0]")
     }
 })();
