@@ -2989,6 +2989,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("validation checks added + updated 🔥🔥🔥🔥 - Archie [v1.0]")
+        iframe.contentWindow.alert("updated to latest blooket version 🔥 - Archie [v1.1] // 23/09/24")
     }
 })();
