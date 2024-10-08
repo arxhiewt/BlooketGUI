@@ -2990,6 +2990,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("Updated 🔥 - Archie [v1.0.2] // 26/09/24")
+        iframe.contentWindow.alert("AutoUpdated before patch tomorrow - Archie [v1.0.3] 08/10/24")
     }
 })();
