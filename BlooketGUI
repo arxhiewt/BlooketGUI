@@ -2990,6 +2990,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("fixed [v1.0.5] 22/10/24")
+        iframe.contentWindow.alert("hi guys i updated it today [v1.0.6] 30/10/24")
     }
 })();
