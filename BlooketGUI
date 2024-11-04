@@ -1,17 +1,12 @@
 // Added validation checks for compatibility with the latest Blooket update.
-
 // Note: This code was based on an external source, and while updates have been applied as of 15/09/24,
 // functionality may vary due to further changes by Blooket.
-
 // If functions stop working just wait for me to find them and fix them
 // - Archie
 
 
-
-
-
-
-// Code is below which is also opened sourced
+// Copy & Paste This Entire Code --> Right Click (Once you are in the game) --> Open Inspect --> Console --> Paste 
+// (You may need to write 'allow pasting' within the console for it to work) If theres issues just msg me via discord: arxhiewt
 
 
 (() => {
