@@ -2995,6 +2995,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("Manual Update - Archie [v1.0.8] 04/11/24")
+        iframe.contentWindow.alert("Updated + Fixed Gold Quest v1.0.6 10/11/24")
     }
 })();
