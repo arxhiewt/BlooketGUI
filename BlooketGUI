@@ -4,9 +4,29 @@
 
 
 // Copy & Paste This Entire Code --> Right Click (Once you are in the game) --> Open Inspect --> Console --> Paste 
-// (You may need to write 'allow pasting' within the console for it to work) If theres issues just msg me via discord: arxhiewt
+// (You may need to write 'allow pasting' within the console for it to work)
 // Currently working on adding anti kick feature which works BUT fully relys on the hosts computer to be bad the option is experimental which can be turned on
-// via settings for the new upcoming update!!!!!!
+// via settings for the new upcoming update
+
+// IMPORTANT!!! - A NEW GUI, FEATURES AND STABILITY IS CURRENTLY UNDER DEVELOPMENT
+// PLEASE NOTE THAT THIS ENTIRE CODE IS NOT ORIGINAL AND I DO NOT OWN FULL RIGHTS - OPEN SOURCE
+// (I have changed and fixed settings and options to improve stability) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Main Code Below: 
 
 
 (() => {
@@ -2995,6 +3015,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("Updated + Fixed Gold Quest v1.0.6 10/11/24")
+        iframe.contentWindow.alert("[UPD] Fixed issues (11/02/25)")
     }
 })();
